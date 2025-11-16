@@ -1,6 +1,5 @@
 /**
  * Same functionality as plainObjects.js, but classes.
- * Cleaner structure, same output.
  */
 
 class Assignment {

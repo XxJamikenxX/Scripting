@@ -1,6 +1,5 @@
 /**
  * Rewriting the plain object version using constructor functions.
- * Same structure and same output, just organized properly.
  */
 
 // Assignment constructor
